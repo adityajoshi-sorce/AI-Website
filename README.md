@@ -36,7 +36,7 @@ A sleek and modern AI-themed website built using React and Tailwind CSS. This pr
 
 ### 🏠 Home Page
 
-![Home Page](./screenshots/home.png)
+![Home Page](screenshots/About.png)
 
 ### 📖 About Page
 
